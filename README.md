@@ -4,6 +4,10 @@ A backend notification service that supports sending notifications via **Email**
 
 ---
 
+### 🔗 Live Demo: [notification-service on Render](https://notification-service-v3ro.onrender.com)
+
+---
+
 ## 🚀 Features
 
 * `POST /api/notifications` — send notification to queue
