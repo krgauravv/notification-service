@@ -1,7 +1,3 @@
-Thought for 6s
-
-Here’s a clean, copy-paste-ready README.md for your project:
-
 # 📬 Notification Service (Node.js + RabbitMQ + MongoDB)
 
 A backend microservice that sends notifications via **Email**, **SMS (simulated)**, and **In-App** using **RabbitMQ** for asynchronous processing and **MongoDB** for storing in-app notifications. Secured with **JWT authentication**.
